@@ -17,9 +17,9 @@
 
 ### Ans1(a)
 
-![alt text](ans1(a).jpg)
+![alt text](Ans1(a).png)
 
 ### Ans1(b)
 
-![alt text](ans1(b).jpg)
-![alt text](ans1 (b).jpg)
+![alt text](Ans1(b).png)
+![alt text](Ans1 (b).png)
