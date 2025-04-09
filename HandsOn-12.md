@@ -22,4 +22,4 @@
 ### Ans1(b)
 
 ![alt text](Ans1(b).jpg)
-![alt text](Ans1 (b).jpg)
+![alt text](Answer1(b).jpg)
